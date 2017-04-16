@@ -20,7 +20,7 @@ throw making common UI parts like "Image Hover Action", "Line-out Text", "Carous
 
 ### Pre requisits:
 
-Knolidge of
+Knowlidge of
 - Basic archive manipulation
 - HTML and CSS
 
