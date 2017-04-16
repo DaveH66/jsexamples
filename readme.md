@@ -31,3 +31,13 @@ Tools:
 References:
 - [Mizilla/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+
+## Credit
+
+> Author: Marcio Koji Carvalho  
+Web: http://walker-walks.com  
+Original: https://github.com/walker-walks/learning-JavaScript  
+Version: 0.1  
+License: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>  
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
