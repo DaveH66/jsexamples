@@ -5,6 +5,10 @@
 // Step 0
 // alert('Hello Wolrd');
 console.log('Hello Wolrd');
+console
+  .log
+  ('Olá Mundo');
+
 /* 
   Long
   Comments
@@ -14,7 +18,9 @@ console.log('Hello Wolrd');
 
 console.log('hello Mr. John');
 console.log('hello Mr. Mike');
-
+console.log('hello Mr. Walker');
+console.log('hello Mr. Bob');
+console.log('hello Mr. Koji');
 
 // Step 2
 
@@ -42,6 +48,7 @@ sayHello('John');
 sayHello('Mike');
 
 function sayHello(n){
+  // Intent inside block to increase the readability.
   console.log('Hello, Mr. ' + n);
 }
 
@@ -52,16 +59,22 @@ function sayHello(n){
   Let's understand more about JavaScritp variables.
 /////*/
 
+/*
+Declarations
+
+var / let / const
+
+*/
+
 /* 
 Primitive Types:
 - Numer    = 3 / 3.14
 - Boolean  = true/false
-- String   = 'Hello', '3', '3.14'
+- String   = 'Hello', '3', '3.14' is same as "Hello", "3", "3.14"
 - null
 - undefined
 - Symbol(new in ES6)
 */
-
 
 console.log('11' - 2);    // returns 30, Number
 console.log('11' + 2);    // returns "112", String
