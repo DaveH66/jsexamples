@@ -2,23 +2,11 @@
 Often used to protect your variable form other programs.
 //*/
 
-/*
-function say(str){
-  let msg;
-  msg = str;
-  console.log(msg);
-}
-*/
-
-/*
-say = function(str){
-  let msg;
-  msg = str;
-  console.log(msg);
-};
-*/
-
-// say('hello');
+// let say = function(str){
+//   let msg;
+//   msg = str;
+//   console.log(msg);
+// };
 
 (function(str){
   let msg;
@@ -27,3 +15,13 @@ say = function(str){
 }('hello'));
 
 console.log(msg);
+
+
+/* /////
+Functions
+//////*/
+// function say(str){
+//   let msg;
+//   msg = str;
+//   console.log(msg);
+// }
