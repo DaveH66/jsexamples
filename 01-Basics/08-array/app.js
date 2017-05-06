@@ -1,6 +1,6 @@
-// Array = Indexed Value Collection
+// Array Object = Indexed Value Collection
 let arr = [];
-let students = ["Mike", "Bob", "Walker"];
+let students = ['Mike', 'Bob', 'Walker'];
 let scores = [100, 60, 90];
 
 /* Do not do
